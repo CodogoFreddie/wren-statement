@@ -1,0 +1,3 @@
+[submodule "wren_modules/eventful"]
+	path = wren_modules/eventful
+	url = git@github.com:CodogoFreddie/wren-eventful.git
